@@ -93,17 +93,17 @@
 ```bash
 # 安装到当前项目
 mkdir -p .claude/skills
-git clone <repo-url> .claude/skills/anti-anti-distill
+git clone https://github.com/mycyg/anti-anti-distill.git .claude/skills/anti-anti-distill
 
 # 或安装到全局
 mkdir -p ~/.claude/skills
-git clone <repo-url> ~/.claude/skills/anti-anti-distill
+git clone https://github.com/mycyg/anti-anti-distill.git ~/.claude/skills/anti-anti-distill
 ```
 
 ### OpenClaw
 
 ```bash
-git clone <repo-url> ~/.openclaw/workspace/skills/anti-anti-distill
+git clone https://github.com/mycyg/anti-anti-distill.git ~/.openclaw/workspace/skills/anti-anti-distill
 ```
 
 ---
